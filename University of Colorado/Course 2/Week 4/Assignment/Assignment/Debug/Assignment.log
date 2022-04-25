@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 2\Week 4\Assignment\Assignment\main.c(67,14): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+C:\Users\devjy\Documents\C\University of Colorado\Course 2\Week 4\Assignment\Assignment\main.c(67,9): warning C4024: 'fgets': different types for formal and actual parameter 1
+  Assignment.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 2\Week 4\Assignment\Debug\Assignment.exe

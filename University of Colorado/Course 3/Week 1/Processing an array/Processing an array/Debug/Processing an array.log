@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 1\Processing an array\Processing an array\main.c(42,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Processing an array.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 1\Processing an array\Debug\Processing an array.exe

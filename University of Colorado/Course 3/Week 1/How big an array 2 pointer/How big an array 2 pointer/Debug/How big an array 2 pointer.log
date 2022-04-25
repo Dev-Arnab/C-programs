@@ -1,0 +1,3 @@
+﻿  mian.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 1\How big an array 2 pointer\How big an array 2 pointer\mian.c(58,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  How big an array 2 pointer.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 1\How big an array 2 pointer\Debug\How big an array 2 pointer.exe

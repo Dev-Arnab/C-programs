@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 4\Energetic Einstein Exercise\Energetic Einstein Exercise\main.c(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 4\Energetic Einstein Exercise\Energetic Einstein Exercise\main.c(21,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 4\Energetic Einstein Exercise\Energetic Einstein Exercise\main.c(12,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Energetic Einstein Exercise.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 4\Energetic Einstein Exercise\Debug\Energetic Einstein Exercise.exe

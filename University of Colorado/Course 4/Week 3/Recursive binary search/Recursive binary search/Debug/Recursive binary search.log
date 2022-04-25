@@ -1,0 +1,5 @@
+﻿  Recursive binary search.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 4\Week 3\Recursive binary search\Recursive binary search\Recursive binary search.c(31,65): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\devjy\Documents\C\University of Colorado\Course 4\Week 3\Recursive binary search\Recursive binary search\Recursive binary search.c(31,62): warning C4024: 'binary_search': different types for formal and actual parameter 4
+C:\Users\devjy\Documents\C\University of Colorado\Course 4\Week 3\Recursive binary search\Recursive binary search\Recursive binary search.c(105,94): warning C4020: 'binary_search': too many actual parameters
+  Recursive binary search.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 4\Week 3\Recursive binary search\Debug\Recursive binary search.exe

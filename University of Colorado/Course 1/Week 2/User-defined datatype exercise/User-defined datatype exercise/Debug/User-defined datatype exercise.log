@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 2\User-defined datatype exercise\User-defined datatype exercise\main.c(19,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 2\User-defined datatype exercise\User-defined datatype exercise\main.c(20,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  User-defined datatype exercise.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 2\User-defined datatype exercise\Debug\User-defined datatype exercise.exe

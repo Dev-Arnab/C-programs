@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 2\Converting strings to numbers\Converting strings to numbers\main.c(21,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Converting strings to numbers.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 2\Converting strings to numbers\Debug\Converting strings to numbers.exe

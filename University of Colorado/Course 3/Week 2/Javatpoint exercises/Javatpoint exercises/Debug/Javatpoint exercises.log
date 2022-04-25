@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 2\Javatpoint exercises\Javatpoint exercises\main.c(16,21): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  Javatpoint exercises.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 2\Javatpoint exercises\Debug\Javatpoint exercises.exe

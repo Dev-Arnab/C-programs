@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 2\String basics\String basics\main.c(15,27): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  String basics.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 2\String basics\Debug\String basics.exe

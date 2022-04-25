@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 4\Velocity with direction\Velocity with direction\main.c(56,25): warning C4305: '*=': truncation from 'double' to 'float'
+  Velocity with direction.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 4\Velocity with direction\Debug\Velocity with direction.exe

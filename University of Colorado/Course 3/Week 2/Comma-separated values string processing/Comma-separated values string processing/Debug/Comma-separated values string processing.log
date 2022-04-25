@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 2\Comma-separated values string processing\Comma-separated values string processing\main.c(54,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 2\Comma-separated values string processing\Comma-separated values string processing\main.c(74,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Comma-separated values string processing.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 2\Comma-separated values string processing\Debug\Comma-separated values string processing.exe

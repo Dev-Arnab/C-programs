@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 4\Week 1\1 2 3 Visual Studio Final Code\ReadFile\ReadFile\main.c(114,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ReadFile.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 4\Week 1\1 2 3 Visual Studio Final Code\ReadFile\Debug\ReadFile.exe

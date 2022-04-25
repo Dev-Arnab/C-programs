@@ -1,0 +1,5 @@
+﻿  main.c
+main.obj : error LNK2019: unresolved external symbol _get_random_array referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _print_array referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _swap_elements referenced in function _bubble_sort
+C:\Users\devjy\Documents\C\University of Colorado\Course 4\Week 3\Bubble sort\Debug\Bubble sort.exe : fatal error LNK1120: 3 unresolved externals

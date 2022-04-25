@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 2\Week 4\Assignment practice\Assignment practice\main.c(13,8): warning C4101: 'average': unreferenced local variable
+C:\Users\devjy\Documents\C\University of Colorado\Course 2\Week 4\Assignment practice\Assignment practice\main.c(14,6): warning C4101: 'mod_input': unreferenced local variable
+  Assignment practice.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 2\Week 4\Assignment practice\Debug\Assignment practice.exe

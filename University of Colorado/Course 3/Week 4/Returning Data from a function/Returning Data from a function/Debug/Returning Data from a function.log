@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 4\Returning Data from a function\Returning Data from a function\main.c(14,14): warning C4047: 'function': 'time_t *const ' differs in levels of indirection from 'int'
+C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 4\Returning Data from a function\Returning Data from a function\main.c(14,13): warning C4024: 'time': different types for formal and actual parameter 1
+C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 4\Returning Data from a function\Returning Data from a function\main.c(14,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Returning Data from a function.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 4\Returning Data from a function\Debug\Returning Data from a function.exe

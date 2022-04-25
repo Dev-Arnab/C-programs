@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 4\Speed an direction\Speed an direction\main.c(39,25): warning C4305: '*=': truncation from 'double' to 'float'
+  Speed an direction.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 4\Speed an direction\Debug\Speed an direction.exe

@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 4\Assignment\Assignment\main.c(50,32): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 4\Assignment\Assignment\main.c(53,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 4\Assignment\Assignment\main.c(54,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 4\Assignment\Assignment\main.c(84,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 4\Assignment\Assignment\main.c(88,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Assignment.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 1\Week 4\Assignment\Debug\Assignment.exe

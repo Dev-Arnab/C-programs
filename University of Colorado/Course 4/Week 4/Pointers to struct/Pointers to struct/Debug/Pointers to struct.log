@@ -1,0 +1,3 @@
+﻿  Pointers to struct.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 4\Week 4\Pointers to struct\Pointers to struct\Pointers to struct.c(39,31): warning C4305: '=': truncation from 'double' to 'float'
+  Pointers to struct.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 4\Week 4\Pointers to struct\Debug\Pointers to struct.exe

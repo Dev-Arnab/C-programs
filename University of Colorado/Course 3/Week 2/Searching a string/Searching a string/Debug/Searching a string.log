@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 2\Searching a string\Searching a string\main.c(39,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 2\Searching a string\Searching a string\main.c(40,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
+  Searching a string.vcxproj -> C:\Users\devjy\Documents\C\University of Colorado\Course 3\Week 2\Searching a string\Debug\Searching a string.exe
